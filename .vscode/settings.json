@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\HAKIM\\anaconda3\\envs\\Project01\\python.exe",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
